@@ -2,8 +2,8 @@
     "id": "ziye.app.sub",
     "name": "ziye 脚本订阅",
     "author": "@ZIYE",
-    "icon": "https://raw.githubusercontent.com/ziye12/JavaScript/main/ziye.png",
-    "repo": "https://github.com/ziye12",
+    "icon": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/ziye.png",
+    "repo": "https://github.com/ziye66666",
     "apps": [{
             "id": "qczjspeed",
             "name": "汽车之家极速版",
@@ -38,9 +38,9 @@
                     "desc": "默认0点后提现，可设置 0 ~ 23  "
                 }
             ],
-            "repo": "https://github.com/ziye12/QCZJSPEED/blob/main/Task/qczjspeed.js",
+            "repo": "https://github.com/ziye66666/QCZJSPEED/blob/main/Task/qczjspeed.js",
             "icons": ["https://raw.githubusercontent.com/Orz-3/task/master/qczj.png", "https://raw.githubusercontent.com/Orz-3/task/master/qczj.png"],
-            "script": "https://raw.githubusercontent.com/ziye12/QCZJSPEED/main/Task/qczjspeed.js"
+            "script": "https://raw.githubusercontent.com/ziye66666/QCZJSPEED/main/Task/qczjspeed.js"
         },
         {
             "id": "xiaole",
@@ -62,9 +62,9 @@
                     "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/xiaole.js",
-            "icons": ["https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/xiaole.png", "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/xiaole.png"],
-            "script": "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/xiaole.js"
+            "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/xiaole.js",
+            "icons": ["https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/xiaole.png", "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/xiaole.png"],
+            "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/xiaole.js"
         },
         {
             "id": "iboxpay",
@@ -114,9 +114,9 @@
                     "desc": "输入短信验证码，默认为0，不启动获取token功能"
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js",
-            "icons": ["https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.png", "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.png"],
-            "script": "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js"
+            "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js",
+            "icons": ["https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.png", "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.png"],
+            "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/iboxpay.js"
         },
         {
             "id": "flw",
@@ -152,9 +152,9 @@
                     "desc": "默认0，可设置设置 0 5 50 100"
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js",
-            "icons": ["https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.png", "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.png"],
-            "script": "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js"
+            "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.js",
+            "icons": ["https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.png", "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.png"],
+            "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/flw.js"
         },
         {
             "id": "githubAC",
@@ -176,9 +176,9 @@
                     "desc": "指定任务最多跑几个js，根据抓取的js数据个数来设值"
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/githubAC.js",
+            "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/githubAC.js",
             "icons": ["https://github.githubassets.com/images/modules/site/home/astro-mona.jpg", "https://github.githubassets.com/images/modules/site/home/astro-mona.jpg"],
-            "script": "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/githubAC.js"
+            "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/githubAC.js"
         },
         {
             "id": "duokandian",
@@ -207,9 +207,9 @@
                     "desc": "0不提现，可设置 0 1 3 5 15 "
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/duokandian.js",
-            "icons": ["https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/duokandian.png", "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/duokandian.png"],
-            "script": "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/duokandian.js"
+            "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/duokandian.js",
+            "icons": ["https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/duokandian.png", "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/duokandian.png"],
+            "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/duokandian.js"
         },
         {
             "id": "zhima",
@@ -231,9 +231,9 @@
                     "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
                 }
             ],
-            "repo": "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/zhima.js",
-            "icons": ["https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/zhima.png", "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/zhima.png"],
-            "script": "https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/zhima.js"
+            "repo": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/zhima.js",
+            "icons": ["https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/zhima.png", "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/zhima.png"],
+            "script": "https://raw.githubusercontent.com/ziye66666/JavaScript/main/Task/zhima.js"
         }
     ]
 }
