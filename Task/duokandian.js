@@ -15,6 +15,7 @@ boxjs链接  https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/ziye.
 2.11-2  修复视频和广告以及提现判定问题
 2.12 增加碎片显示以及兑换
 2.14 修复宝箱问题
+2.16 修复报错
 
 ⚠️一共1个位置 1个ck  👉 2条 Secrets
 多账号换行
@@ -426,8 +427,8 @@ function days(timeout = 0) {
                     if (logs) $.log(`${O}, 任务列表🚩: ${data}`);
                     $.days = JSON.parse(data);
                     if ($.days) {
-                        sp = $.days.data.list.find(item => item.id === 1 || item.id === 11);
-                        gg = $.days.data.list.find(item => item.id === 2 || item.id === 12);
+                        sp = $.days.data.list.find(item => item.pathurl === "duokandian://video");
+                        gg = $.days.data.list.find(item => item.pathurl === "duokandian://xxx");
                         yi = $.days.data.Task_comp.data.find(item => item.pro === 20);
                         er = $.days.data.Task_comp.data.find(item => item.pro === 50);
 
